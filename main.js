@@ -1,0 +1,18 @@
+var firstname="idk";
+console.log(firstname);
+var lastname=" trollololololololol";
+console.log(lastname);           
+var fullname= firstname.concat(lastname);
+console.log(fullname);
+var length15=fullname.length;
+console.log(length15);
+var replacename="hello my name is hunor.";
+console.log(replacename);
+var ok=replacename.replace("hello","hey mate");
+console.log(ok);
+var maths=123;
+var thath=456;
+var add=maths+thath;
+console.log(add);
+var multiply=maths*thath;
+console.log(multiply);
